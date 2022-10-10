@@ -1,0 +1,8 @@
+#root{
+  min-height: 100vh;
+}
+
+body{
+  background: rgb(56,66,242);
+background: linear-gradient(180deg, rgba(56,66,242,1) 0%, rgba(238,11,11,1) 100%);
+}
